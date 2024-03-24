@@ -13,7 +13,7 @@ Welcome to my FastAPI learning repository! This repository contains projects, tu
 
 ## Projects
 
-### 1. Basic CRUD Application
+### 1. [Basic CRUD Application](https://github.com/Zeeshan138063/fastapi-learning/tree/main/basic_crud_project)
 
 Description: This is a simple FastAPI project demonstrating basic CRUD operations.
 
